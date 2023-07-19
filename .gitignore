@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+###target/demo-0.0.1-SNAPSHOT.jar
 
 # Log file
 *.log
